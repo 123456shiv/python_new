@@ -1,0 +1,6 @@
+princple=float(input("Enter the principal amount:"))
+rate=float(input("Enter the rate of interest:"))
+time=float(input("Enter the time in years:"))
+n=float(input("Enter the number of times interest is compounded per year:"))
+Compound_interest=princple*(1+(rate/n))**(n*time)
+print("The compound interest for principal amount", princple, "at rate", rate, "for time", time, "years compounded", n, "times per year is", Compound_interest) 
