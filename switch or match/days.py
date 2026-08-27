@@ -6,7 +6,7 @@ match days:
     case 2:
         print("Tuesday ya mangalwar")
     case 3:
-        print("Wednesday ya budhwar")
+        print("Wednesday ya budhwar") 
     case 4:
         print("Thursday ya guruwar")
     case 5:
