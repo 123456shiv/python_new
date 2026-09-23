@@ -1,3 +1,6 @@
-name=input("Enter a list of names separated by commas: ").split(',')
+name=[]
+
+for i in range(5):
+    name.append(input("Enter name: "))
 
 print(max(name))
