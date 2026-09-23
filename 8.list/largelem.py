@@ -1,2 +1,2 @@
-fruits=['apple', 'banana', 'cherry', 'date', 'elderberry']
-print(max(fruits))
+name=['akhil', 'shiv', 'sharan', 'tripathi', 'python']
+print(min(name))
